@@ -1,16 +1,57 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/101964529/230787959-4d6f74eb-fa50-4922-823c-966e404eff35.png)
+
+
+<img align="Right" img width="330" alt="image" src="![image](https://user-images.githubusercontent.com/101964529/230787978-527ae9e9-d3f3-40b2-bca1-3c328d0e5398.png)
+">
+
+#  I'm Saranya N! 👋
+
+
+
+
+<a href="https://www.linkedin.com/in/saranya-nk">
+  <img align="left" alt="Suraj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/SARANYA-4411">
+  <img align="left" alt="saranya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<br/>
+<br/>
+
+- 🔭 Data Science , Data analyst& Data Technologies Enthusiast.
+- 🌱 I’m currently learning more about Full Stack Data Science.
+- 🤔 I’m looking for help with career guidance.
+- 💬 Ask me about Data & Technologies or any tech related stuff.
+- 📫 How to reach me: [Linkedin - https://www.linkedin.com/in/saranya-nk/)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: "I am passionate about technology, innovation, and big challenging tasks on my to do list."
+
+[![Linkedin: https://www.linkedin.com/in/saranya-nk/]
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=suraj-kumar-372048203" target="_blank">Follow on LinkedIn</a>
+[![GitHub SARANYA N](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/SARANYA-4411)
+
+Email: snk4411@gmail.com
+
+
+
+
+# 💻 Tech Stack:
+<img src="https://img.icons8.com/color/64/null/python--v1.png"/> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/null/external-big-data-big-data-itim2101-lineal-color-itim2101.png"/> <img src="https://img.icons8.com/stickers/70/null/sql.png"/> ![](https://cdn.icon-icons.com/icons2/2415/PNG/64/postgresql_plain_wordmark_logo_icon_146390.png) <img src="https://img.icons8.com/color/64/null/power-bi.png"/> <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/null/external-visualization-big-data-wanicon-lineal-color-wanicon.png"/><img src="https://img.icons8.com/color/64/null/ms-excel.png"/> 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=SARANYA-4411&theme=darcula&hide_border=false)<br/>
+
 <!--
-**SARANYA-4411/SARANYA-4411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Show some ❤️ by starring some of the repositories!
+
+</div>
